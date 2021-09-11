@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "7f173dd2-7944-4b09-9ea1-57651370dfd2",
+      "name": "New Contact",
+      "email": "new@example.com"
+    },
+    {
+      "id": "4564fcc8-aca9-4377-91e8-0d47fc0a2ef3",
+      "name": "Abhishek",
+      "email": "abhi@gmail.com"
+    },
+    {
+      "id": "cf8bae8f-4020-4ad5-bf64-f8345516d033",
+      "name": "Kajal Updated",
+      "email": "kajal@example.com"
+    },
+    {
+      "id": "00b17b09-7f80-4ffc-97c3-f8791b574a4d",
+      "name": "Tanu",
+      "email": "tanushree1@gmail.com"
+    }
+  ]
+}
